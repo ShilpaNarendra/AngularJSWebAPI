@@ -1,0 +1,139 @@
+Cisco
+https://supportforums.cisco.com/discussion/12403526/cisco-anyconnect-failed-initialize-connection-subsystem-windows-10
+
+angular
+https://www.coursera.org/learn/angular-js/lecture/EMFq9/introduction-to-angularjs
+
+https://www.coursera.org/learn/angular-js/supplement/gr4sK/exercise-instructions-introduction-to-angularjs
+
+https://www.coursera.org/learn/angular-js/lecture/feq9R/assignment-1-video-requirements
+
+https://www.coursera.org/learn/angular-js/lecture/i8ks6/exercise-video-web-tools-grunt
+
+https://www.coursera.org/learn/angular-js/lecture/ps8cK/angular-forms-and-form-validation
+
+HIRS
+http://hrms.indecomm.net:8080/hris/login.do. 
+IGS/04657
+Nbss@jan16
+
+
+http://in8tfsawp003.in8azure.local:8080/tfs/InEightCollection/Core/Core
+
+bin\elasticsearch.bat
+
+C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd
+
+authenticate with your ID harddollar\<ID>
+
+
+AD credentials for Local and Dev testing
+
+Username: asandy@managedservicesprokarma.onmicrosoft.com
+Password: Prokarma123
+
+Dev Environment URL
+http://dev.is.in8azure.local/
+
+http://www.codeproject.com/Articles/393623/OData-Services
+
+
+http://classroom.synonym.com/significance-colors-indian-flag-5529.html
+
+https://docs.angularjs.org/guide/forms
+
+https://www.coursera.org/learn/angular-js/supplement/kxSSj/exercise-instructions-angular-factory-and-service
+
+http://classroom.synonym.com/significance-colors-indian-flag-5529.html
+
+https://www.coursera.org/learn/angular-js/lecture/xeb0R/angular-ngroute-and-single-page-applications
+
+Website address:https://ess.resolveindia.in
+
+User ID :Shilpa.R@Indecomm.net
+
+Password :Nbss@jan16
+
+http://viralpatel.net/blogs/angularjs-service-factory-tutorial/
+
+https://www.coursera.org/learn/angular-js/lecture/maHiu/exercise-video-client-server-communication-using-http
+
+https://www.coursera.org/learn/responsive-web-design/home/week/1
+
+https://docs.angularjs.org/api/ng/service/$http
+
+https://www.coursera.org/learn/angular-js/lecture/726Ia/exercise-video-client-server-communication-using-resource
+
+https://docs.angularjs.org/api/ng/service/$q
+
+http://kenhowardpdx.com/blog/2015/05/difference-between-angulars-http-and-resource-services/
+
+https://team.harddollar.com
+
+
+2008-01-16
+
+16684.00
+
+insurance-35572.00
+princ-73877.00
+
+
+http://www.dotnet-tricks.com/Tutorial/angularjs/54Ia140814-Understanding-Features-of-AngularJS.html
+http://docs.telerik.com/kendo-ui/aspnet-mvc/asp-net-mvc-5
+http://demos.telerik.com/kendo-ui/grid/local-data-binding
+http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/
+
+for skyp
+rshilpa27@hotmail.com
+ahan@116
+using live.com
+
+Style guide
+
+http://d2rriz.axshare.com/#p=error_handling
+
+Password: ineight
+
+
+http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm
+
+https://github.com/johnpapa/angular-styleguide
+
+https://www.safaribooksonline.com/home/ 
+narendra.babu-donthi@hpe.com
+1leadHPE
+
+http://docs.telerik.com/kendo-ui/AngularJS/Troubleshooting/notes-on-ng-repeat
+
+ng-model-options="{ updateOn: 'default change', debounce: { 'default': 2000, 'change': 2000 } }"
+
+http://one.indecomm.net/IndecommOne/Login.aspx
+IGS/04657
+Nbss@jan16
+
+https://www.coursera.org/learn/responsive-web-design/lecture/Vdi5S/displaying-different-data-with-the-same-template
+
+http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/
+
+
+elastic search-
+https://www.youtube.com/watch?v=60UsHHsKyN4
+https://www.youtube.com/watch?v=PpX7J-G2PEo
+
+
+topshelf 
+https://app.pluralsight.com/player?author=jason-roberts&name=topshelf-getting-started-building-windows-services-m0&mode=live&clip=0&course=topshelf-getting-started-building-windows-services
+
+Github
+https://www.youtube.com/watch?v=r63f51ce84A
+
+
+https://github.com/ShilpaNarendra/ConsoleApp
+ShilpaNarendra
+
+http://localhost:9200/
+
+https://www.devbridge.com/articles/a-tutorial-getting-started-with-elastic-using-net-nest-library-part-one/
+
+https://app.pluralsight.com/player?author=scott-allen&name=angularjs-get-started-m1-introduction&mode=live&clip=0&course=angularjs-get-started
